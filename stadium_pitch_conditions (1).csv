@@ -1,0 +1,11 @@
+venue,home_team,pitch_type,avg_first_innings_score,spin_friendliness,pace_friendliness
+"MA Chidambaram Stadium, Chennai",Chennai Super Kings,spin-friendly,160,0.75,0.35
+"Wankhede Stadium, Mumbai",Mumbai Indians,batting,185,0.3,0.4
+"M. Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,batting,185,0.3,0.4
+"Eden Gardens, Kolkata",Kolkata Knight Riders,balanced,170,0.5,0.5
+"Arun Jaitley Stadium, Delhi",Delhi Capitals,pace-friendly,165,0.35,0.75
+"PCA Stadium, Mullanpur",Punjab Kings,balanced,170,0.5,0.5
+"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,spin-friendly,160,0.75,0.35
+"Rajiv Gandhi Intl Stadium, Hyderabad",Sunrisers Hyderabad,pace-friendly,165,0.35,0.75
+"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,balanced,170,0.5,0.5
+"Ekana Stadium, Lucknow",Lucknow Super Giants,bowling-friendly,145,0.5,0.6
